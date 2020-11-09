@@ -7,3 +7,7 @@ The SWF versions can be played using Adobe Flash Player Projector.
 The standalone EXE files do not have any pre-requisites.
 
 ### Big thank you to Pixel games and Mateusz Skutnik
+
+
+TAGS:
+<sub><sup>the fog fall,fog,fall,game,games,fog fall,the fog full game,fall fog,the fog fall 2,the fog 2017 game,the fog steam game,the fog horror game,the fog fall walkthrough,the fog fall 2 walkthrough,game dev,pastel games,indie game,video game,the fog gameplay,board game (game genre),video game culture,escape game,video game (industry),xbox 360 (video game platform),unity3d game tutorial,indie game dev,cattails game,escape games,puzzle games,scydev games,physics games,game development,adventure games</sup></sub>
