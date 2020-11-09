@@ -6,7 +6,7 @@ This repository contains Fog Fall 1,2,3 and 4. There are 2 versions of it, SWF a
 The SWF versions can be played using Adobe Flash Player Projector.
 The standalone EXE files do not have any pre-requisites.
 
-### Big thank you to Pixel games and Mateusz Skutnik
+@@ Big thank you to Pixel games and Mateusz Skutnik @@ 
 
 
 TAGS:
